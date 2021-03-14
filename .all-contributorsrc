@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "spontoreau",
+      "name": "Sylvain PONTOREAU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3357643?v=4",
+      "profile": "http://sylvain.pontoreau.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "denohavior",
+  "projectOwner": "the-hipster-committers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

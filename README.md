@@ -26,13 +26,21 @@ Before you contribute, please take a few minutes to read the [contribution guide
 
 ## Contributors
 
-## Licence
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://sylvain.pontoreau.com"><img src="https://avatars.githubusercontent.com/u/3357643?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sylvain PONTOREAU</b></sub></a><br /><a href="https://github.com/the-hipster-committers/denohavior/commits?author=spontoreau" title="Documentation">📖</a></td>
+    <td align="center">
+      <a href="http://sylvain.pontoreau.com"><img src="https://avatars.githubusercontent.com/u/3357643?v=4?s=100" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Sylvain PONTOREAU</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/the-hipster-committers/denohavior/commits?author=spontoreau" title="Documentation">📖</a>
+    </td>
   </tr>
 </table>
 
@@ -40,5 +48,7 @@ Before you contribute, please take a few minutes to read the [contribution guide
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Licence
 
 [MIT](LICENSE)

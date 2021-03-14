@@ -1,6 +1,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/the-hipster-committers/denohavior?style=flat-square)](LICENSE)
-[![Discord](https://img.shields.io/discord/820714341409095710)](https://discord.gg/pqkZHKWMbU)
+[![Discord](https://img.shields.io/discord/820714341409095710?style=flat-square)](https://discord.gg/pqkZHKWMbU)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
 
 # Denohavior

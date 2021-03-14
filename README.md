@@ -1,7 +1,3 @@
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![GitHub license](https://img.shields.io/github/license/the-hipster-committers/denohavior?style=flat-square)](LICENSE)
 [![Discord](https://img.shields.io/discord/820714341409095710?style=flat-square)](https://discord.gg/pqkZHKWMbU)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)

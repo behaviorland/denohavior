@@ -14,11 +14,11 @@ A Behavior Driven Development test runner for [Deno](https://deno.land/). If you
 
 ## Code of conduct
 
-This project has adopted the [code of conduct](CODE_OF_CONDUCT.md) defined by the Contributor Covenant.
+This project has adopted the [code of conduct](https://github.com/behaviorland/behavior/wiki/Code-of-conduct) defined by the Contributor Covenant.
 
 ## Contributing
 
-Before you contribute, please take a few minutes to read the [contribution guidelines](CONTRIBUTING.md). 
+Before you contribute, please take a few minutes to read the [contribution guidelines](https://github.com/behaviorland/behavior/wiki/Contribution-guideline). 
 
 ## Contributors
 
